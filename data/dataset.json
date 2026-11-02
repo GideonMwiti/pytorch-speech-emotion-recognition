@@ -1,0 +1,902 @@
+[
+  {
+    "id": "ser_001",
+    "filename": "sample_ser_001_neutral.wav",
+    "filepath": "data/audio/sample_ser_001_neutral.wav",
+    "emotion": "neutral",
+    "duration_sec": 4.12,
+    "split": "train",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_002",
+    "filename": "sample_ser_002_neutral.wav",
+    "filepath": "data/audio/sample_ser_002_neutral.wav",
+    "emotion": "neutral",
+    "duration_sec": 3.94,
+    "split": "train",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_003",
+    "filename": "sample_ser_003_neutral.wav",
+    "filepath": "data/audio/sample_ser_003_neutral.wav",
+    "emotion": "neutral",
+    "duration_sec": 3.38,
+    "split": "train",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_004",
+    "filename": "sample_ser_004_neutral.wav",
+    "filepath": "data/audio/sample_ser_004_neutral.wav",
+    "emotion": "neutral",
+    "duration_sec": 3.96,
+    "split": "test",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_005",
+    "filename": "sample_ser_005_neutral.wav",
+    "filepath": "data/audio/sample_ser_005_neutral.wav",
+    "emotion": "neutral",
+    "duration_sec": 3.87,
+    "split": "train",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_006",
+    "filename": "sample_ser_006_neutral.wav",
+    "filepath": "data/audio/sample_ser_006_neutral.wav",
+    "emotion": "neutral",
+    "duration_sec": 4.29,
+    "split": "train",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_007",
+    "filename": "sample_ser_007_neutral.wav",
+    "filepath": "data/audio/sample_ser_007_neutral.wav",
+    "emotion": "neutral",
+    "duration_sec": 3.72,
+    "split": "train",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_008",
+    "filename": "sample_ser_008_neutral.wav",
+    "filepath": "data/audio/sample_ser_008_neutral.wav",
+    "emotion": "neutral",
+    "duration_sec": 3.82,
+    "split": "test",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_009",
+    "filename": "sample_ser_009_neutral.wav",
+    "filepath": "data/audio/sample_ser_009_neutral.wav",
+    "emotion": "neutral",
+    "duration_sec": 3.58,
+    "split": "train",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_010",
+    "filename": "sample_ser_010_neutral.wav",
+    "filepath": "data/audio/sample_ser_010_neutral.wav",
+    "emotion": "neutral",
+    "duration_sec": 4.6,
+    "split": "train",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_011",
+    "filename": "sample_ser_011_neutral.wav",
+    "filepath": "data/audio/sample_ser_011_neutral.wav",
+    "emotion": "neutral",
+    "duration_sec": 4.09,
+    "split": "train",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_012",
+    "filename": "sample_ser_012_neutral.wav",
+    "filepath": "data/audio/sample_ser_012_neutral.wav",
+    "emotion": "neutral",
+    "duration_sec": 4.05,
+    "split": "test",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_013",
+    "filename": "sample_ser_013_neutral.wav",
+    "filepath": "data/audio/sample_ser_013_neutral.wav",
+    "emotion": "neutral",
+    "duration_sec": 3.42,
+    "split": "train",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_014",
+    "filename": "sample_ser_014_neutral.wav",
+    "filepath": "data/audio/sample_ser_014_neutral.wav",
+    "emotion": "neutral",
+    "duration_sec": 4.03,
+    "split": "train",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_015",
+    "filename": "sample_ser_015_neutral.wav",
+    "filepath": "data/audio/sample_ser_015_neutral.wav",
+    "emotion": "neutral",
+    "duration_sec": 3.82,
+    "split": "train",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_016",
+    "filename": "sample_ser_016_neutral.wav",
+    "filepath": "data/audio/sample_ser_016_neutral.wav",
+    "emotion": "neutral",
+    "duration_sec": 4.24,
+    "split": "test",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_017",
+    "filename": "sample_ser_017_neutral.wav",
+    "filepath": "data/audio/sample_ser_017_neutral.wav",
+    "emotion": "neutral",
+    "duration_sec": 3.64,
+    "split": "train",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_018",
+    "filename": "sample_ser_018_neutral.wav",
+    "filepath": "data/audio/sample_ser_018_neutral.wav",
+    "emotion": "neutral",
+    "duration_sec": 3.92,
+    "split": "train",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_019",
+    "filename": "sample_ser_019_neutral.wav",
+    "filepath": "data/audio/sample_ser_019_neutral.wav",
+    "emotion": "neutral",
+    "duration_sec": 3.6,
+    "split": "train",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_020",
+    "filename": "sample_ser_020_neutral.wav",
+    "filepath": "data/audio/sample_ser_020_neutral.wav",
+    "emotion": "neutral",
+    "duration_sec": 4.74,
+    "split": "test",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_021",
+    "filename": "sample_ser_021_happy.wav",
+    "filepath": "data/audio/sample_ser_021_happy.wav",
+    "emotion": "happy",
+    "duration_sec": 3.49,
+    "split": "train",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_022",
+    "filename": "sample_ser_022_happy.wav",
+    "filepath": "data/audio/sample_ser_022_happy.wav",
+    "emotion": "happy",
+    "duration_sec": 3.34,
+    "split": "train",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_023",
+    "filename": "sample_ser_023_happy.wav",
+    "filepath": "data/audio/sample_ser_023_happy.wav",
+    "emotion": "happy",
+    "duration_sec": 2.86,
+    "split": "train",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_024",
+    "filename": "sample_ser_024_happy.wav",
+    "filepath": "data/audio/sample_ser_024_happy.wav",
+    "emotion": "happy",
+    "duration_sec": 3.35,
+    "split": "test",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_025",
+    "filename": "sample_ser_025_happy.wav",
+    "filepath": "data/audio/sample_ser_025_happy.wav",
+    "emotion": "happy",
+    "duration_sec": 3.28,
+    "split": "train",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_026",
+    "filename": "sample_ser_026_happy.wav",
+    "filepath": "data/audio/sample_ser_026_happy.wav",
+    "emotion": "happy",
+    "duration_sec": 3.63,
+    "split": "train",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_027",
+    "filename": "sample_ser_027_happy.wav",
+    "filepath": "data/audio/sample_ser_027_happy.wav",
+    "emotion": "happy",
+    "duration_sec": 3.16,
+    "split": "train",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_028",
+    "filename": "sample_ser_028_happy.wav",
+    "filepath": "data/audio/sample_ser_028_happy.wav",
+    "emotion": "happy",
+    "duration_sec": 3.24,
+    "split": "test",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_029",
+    "filename": "sample_ser_029_happy.wav",
+    "filepath": "data/audio/sample_ser_029_happy.wav",
+    "emotion": "happy",
+    "duration_sec": 3.04,
+    "split": "train",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_030",
+    "filename": "sample_ser_030_happy.wav",
+    "filepath": "data/audio/sample_ser_030_happy.wav",
+    "emotion": "happy",
+    "duration_sec": 3.9,
+    "split": "train",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_031",
+    "filename": "sample_ser_031_happy.wav",
+    "filepath": "data/audio/sample_ser_031_happy.wav",
+    "emotion": "happy",
+    "duration_sec": 3.55,
+    "split": "train",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_032",
+    "filename": "sample_ser_032_happy.wav",
+    "filepath": "data/audio/sample_ser_032_happy.wav",
+    "emotion": "happy",
+    "duration_sec": 3.34,
+    "split": "test",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_033",
+    "filename": "sample_ser_033_happy.wav",
+    "filepath": "data/audio/sample_ser_033_happy.wav",
+    "emotion": "happy",
+    "duration_sec": 2.95,
+    "split": "train",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_034",
+    "filename": "sample_ser_034_happy.wav",
+    "filepath": "data/audio/sample_ser_034_happy.wav",
+    "emotion": "happy",
+    "duration_sec": 3.42,
+    "split": "train",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_035",
+    "filename": "sample_ser_035_happy.wav",
+    "filepath": "data/audio/sample_ser_035_happy.wav",
+    "emotion": "happy",
+    "duration_sec": 3.25,
+    "split": "train",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_036",
+    "filename": "sample_ser_036_happy.wav",
+    "filepath": "data/audio/sample_ser_036_happy.wav",
+    "emotion": "happy",
+    "duration_sec": 3.62,
+    "split": "test",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_037",
+    "filename": "sample_ser_037_happy.wav",
+    "filepath": "data/audio/sample_ser_037_happy.wav",
+    "emotion": "happy",
+    "duration_sec": 3.21,
+    "split": "train",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_038",
+    "filename": "sample_ser_038_happy.wav",
+    "filepath": "data/audio/sample_ser_038_happy.wav",
+    "emotion": "happy",
+    "duration_sec": 3.22,
+    "split": "train",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_039",
+    "filename": "sample_ser_039_happy.wav",
+    "filepath": "data/audio/sample_ser_039_happy.wav",
+    "emotion": "happy",
+    "duration_sec": 2.98,
+    "split": "train",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_040",
+    "filename": "sample_ser_040_happy.wav",
+    "filepath": "data/audio/sample_ser_040_happy.wav",
+    "emotion": "happy",
+    "duration_sec": 4.02,
+    "split": "test",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_041",
+    "filename": "sample_ser_041_sad.wav",
+    "filepath": "data/audio/sample_ser_041_sad.wav",
+    "emotion": "sad",
+    "duration_sec": 5.03,
+    "split": "train",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_042",
+    "filename": "sample_ser_042_sad.wav",
+    "filepath": "data/audio/sample_ser_042_sad.wav",
+    "emotion": "sad",
+    "duration_sec": 4.8,
+    "split": "train",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_043",
+    "filename": "sample_ser_043_sad.wav",
+    "filepath": "data/audio/sample_ser_043_sad.wav",
+    "emotion": "sad",
+    "duration_sec": 4.12,
+    "split": "train",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_044",
+    "filename": "sample_ser_044_sad.wav",
+    "filepath": "data/audio/sample_ser_044_sad.wav",
+    "emotion": "sad",
+    "duration_sec": 4.83,
+    "split": "test",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_045",
+    "filename": "sample_ser_045_sad.wav",
+    "filepath": "data/audio/sample_ser_045_sad.wav",
+    "emotion": "sad",
+    "duration_sec": 4.72,
+    "split": "train",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_046",
+    "filename": "sample_ser_046_sad.wav",
+    "filepath": "data/audio/sample_ser_046_sad.wav",
+    "emotion": "sad",
+    "duration_sec": 5.23,
+    "split": "train",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_047",
+    "filename": "sample_ser_047_sad.wav",
+    "filepath": "data/audio/sample_ser_047_sad.wav",
+    "emotion": "sad",
+    "duration_sec": 4.54,
+    "split": "train",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_048",
+    "filename": "sample_ser_048_sad.wav",
+    "filepath": "data/audio/sample_ser_048_sad.wav",
+    "emotion": "sad",
+    "duration_sec": 4.66,
+    "split": "test",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_049",
+    "filename": "sample_ser_049_sad.wav",
+    "filepath": "data/audio/sample_ser_049_sad.wav",
+    "emotion": "sad",
+    "duration_sec": 4.37,
+    "split": "train",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_050",
+    "filename": "sample_ser_050_sad.wav",
+    "filepath": "data/audio/sample_ser_050_sad.wav",
+    "emotion": "sad",
+    "duration_sec": 5.61,
+    "split": "train",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_051",
+    "filename": "sample_ser_051_sad.wav",
+    "filepath": "data/audio/sample_ser_051_sad.wav",
+    "emotion": "sad",
+    "duration_sec": 4.94,
+    "split": "train",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_052",
+    "filename": "sample_ser_052_sad.wav",
+    "filepath": "data/audio/sample_ser_052_sad.wav",
+    "emotion": "sad",
+    "duration_sec": 4.75,
+    "split": "test",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_053",
+    "filename": "sample_ser_053_sad.wav",
+    "filepath": "data/audio/sample_ser_053_sad.wav",
+    "emotion": "sad",
+    "duration_sec": 4.16,
+    "split": "train",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_054",
+    "filename": "sample_ser_054_sad.wav",
+    "filepath": "data/audio/sample_ser_054_sad.wav",
+    "emotion": "sad",
+    "duration_sec": 4.93,
+    "split": "train",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_055",
+    "filename": "sample_ser_055_sad.wav",
+    "filepath": "data/audio/sample_ser_055_sad.wav",
+    "emotion": "sad",
+    "duration_sec": 4.6,
+    "split": "train",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_056",
+    "filename": "sample_ser_056_sad.wav",
+    "filepath": "data/audio/sample_ser_056_sad.wav",
+    "emotion": "sad",
+    "duration_sec": 5.28,
+    "split": "test",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_057",
+    "filename": "sample_ser_057_sad.wav",
+    "filepath": "data/audio/sample_ser_057_sad.wav",
+    "emotion": "sad",
+    "duration_sec": 4.65,
+    "split": "train",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_058",
+    "filename": "sample_ser_058_sad.wav",
+    "filepath": "data/audio/sample_ser_058_sad.wav",
+    "emotion": "sad",
+    "duration_sec": 4.77,
+    "split": "train",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_059",
+    "filename": "sample_ser_059_sad.wav",
+    "filepath": "data/audio/sample_ser_059_sad.wav",
+    "emotion": "sad",
+    "duration_sec": 4.28,
+    "split": "train",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_060",
+    "filename": "sample_ser_060_sad.wav",
+    "filepath": "data/audio/sample_ser_060_sad.wav",
+    "emotion": "sad",
+    "duration_sec": 5.58,
+    "split": "test",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_061",
+    "filename": "sample_ser_061_angry.wav",
+    "filepath": "data/audio/sample_ser_061_angry.wav",
+    "emotion": "angry",
+    "duration_sec": 3.75,
+    "split": "train",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_062",
+    "filename": "sample_ser_062_angry.wav",
+    "filepath": "data/audio/sample_ser_062_angry.wav",
+    "emotion": "angry",
+    "duration_sec": 3.58,
+    "split": "train",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_063",
+    "filename": "sample_ser_063_angry.wav",
+    "filepath": "data/audio/sample_ser_063_angry.wav",
+    "emotion": "angry",
+    "duration_sec": 3.07,
+    "split": "train",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_064",
+    "filename": "sample_ser_064_angry.wav",
+    "filepath": "data/audio/sample_ser_064_angry.wav",
+    "emotion": "angry",
+    "duration_sec": 3.6,
+    "split": "test",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_065",
+    "filename": "sample_ser_065_angry.wav",
+    "filepath": "data/audio/sample_ser_065_angry.wav",
+    "emotion": "angry",
+    "duration_sec": 3.52,
+    "split": "train",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_066",
+    "filename": "sample_ser_066_angry.wav",
+    "filepath": "data/audio/sample_ser_066_angry.wav",
+    "emotion": "angry",
+    "duration_sec": 3.9,
+    "split": "train",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_067",
+    "filename": "sample_ser_067_angry.wav",
+    "filepath": "data/audio/sample_ser_067_angry.wav",
+    "emotion": "angry",
+    "duration_sec": 3.39,
+    "split": "train",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_068",
+    "filename": "sample_ser_068_angry.wav",
+    "filepath": "data/audio/sample_ser_068_angry.wav",
+    "emotion": "angry",
+    "duration_sec": 3.47,
+    "split": "test",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_069",
+    "filename": "sample_ser_069_angry.wav",
+    "filepath": "data/audio/sample_ser_069_angry.wav",
+    "emotion": "angry",
+    "duration_sec": 3.26,
+    "split": "train",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_070",
+    "filename": "sample_ser_070_angry.wav",
+    "filepath": "data/audio/sample_ser_070_angry.wav",
+    "emotion": "angry",
+    "duration_sec": 4.18,
+    "split": "train",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_071",
+    "filename": "sample_ser_071_angry.wav",
+    "filepath": "data/audio/sample_ser_071_angry.wav",
+    "emotion": "angry",
+    "duration_sec": 3.68,
+    "split": "train",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_072",
+    "filename": "sample_ser_072_angry.wav",
+    "filepath": "data/audio/sample_ser_072_angry.wav",
+    "emotion": "angry",
+    "duration_sec": 3.53,
+    "split": "test",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_073",
+    "filename": "sample_ser_073_angry.wav",
+    "filepath": "data/audio/sample_ser_073_angry.wav",
+    "emotion": "angry",
+    "duration_sec": 3.06,
+    "split": "train",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_074",
+    "filename": "sample_ser_074_angry.wav",
+    "filepath": "data/audio/sample_ser_074_angry.wav",
+    "emotion": "angry",
+    "duration_sec": 3.5,
+    "split": "train",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_075",
+    "filename": "sample_ser_075_angry.wav",
+    "filepath": "data/audio/sample_ser_075_angry.wav",
+    "emotion": "angry",
+    "duration_sec": 3.55,
+    "split": "train",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_076",
+    "filename": "sample_ser_076_angry.wav",
+    "filepath": "data/audio/sample_ser_076_angry.wav",
+    "emotion": "angry",
+    "duration_sec": 3.89,
+    "split": "test",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_077",
+    "filename": "sample_ser_077_angry.wav",
+    "filepath": "data/audio/sample_ser_077_angry.wav",
+    "emotion": "angry",
+    "duration_sec": 3.32,
+    "split": "train",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_078",
+    "filename": "sample_ser_078_angry.wav",
+    "filepath": "data/audio/sample_ser_078_angry.wav",
+    "emotion": "angry",
+    "duration_sec": 3.45,
+    "split": "train",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_079",
+    "filename": "sample_ser_079_angry.wav",
+    "filepath": "data/audio/sample_ser_079_angry.wav",
+    "emotion": "angry",
+    "duration_sec": 3.19,
+    "split": "train",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_080",
+    "filename": "sample_ser_080_angry.wav",
+    "filepath": "data/audio/sample_ser_080_angry.wav",
+    "emotion": "angry",
+    "duration_sec": 4.17,
+    "split": "test",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_081",
+    "filename": "sample_ser_081_fearful.wav",
+    "filepath": "data/audio/sample_ser_081_fearful.wav",
+    "emotion": "fearful",
+    "duration_sec": 3.93,
+    "split": "train",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_082",
+    "filename": "sample_ser_082_fearful.wav",
+    "filepath": "data/audio/sample_ser_082_fearful.wav",
+    "emotion": "fearful",
+    "duration_sec": 3.75,
+    "split": "train",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_083",
+    "filename": "sample_ser_083_fearful.wav",
+    "filepath": "data/audio/sample_ser_083_fearful.wav",
+    "emotion": "fearful",
+    "duration_sec": 3.22,
+    "split": "train",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_084",
+    "filename": "sample_ser_084_fearful.wav",
+    "filepath": "data/audio/sample_ser_084_fearful.wav",
+    "emotion": "fearful",
+    "duration_sec": 3.77,
+    "split": "test",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_085",
+    "filename": "sample_ser_085_fearful.wav",
+    "filepath": "data/audio/sample_ser_085_fearful.wav",
+    "emotion": "fearful",
+    "duration_sec": 3.69,
+    "split": "train",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_086",
+    "filename": "sample_ser_086_fearful.wav",
+    "filepath": "data/audio/sample_ser_086_fearful.wav",
+    "emotion": "fearful",
+    "duration_sec": 4.08,
+    "split": "train",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_087",
+    "filename": "sample_ser_087_fearful.wav",
+    "filepath": "data/audio/sample_ser_087_fearful.wav",
+    "emotion": "fearful",
+    "duration_sec": 3.55,
+    "split": "train",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_088",
+    "filename": "sample_ser_088_fearful.wav",
+    "filepath": "data/audio/sample_ser_088_fearful.wav",
+    "emotion": "fearful",
+    "duration_sec": 3.64,
+    "split": "test",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_089",
+    "filename": "sample_ser_089_fearful.wav",
+    "filepath": "data/audio/sample_ser_089_fearful.wav",
+    "emotion": "fearful",
+    "duration_sec": 3.41,
+    "split": "train",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_090",
+    "filename": "sample_ser_090_fearful.wav",
+    "filepath": "data/audio/sample_ser_090_fearful.wav",
+    "emotion": "fearful",
+    "duration_sec": 4.38,
+    "split": "train",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_091",
+    "filename": "sample_ser_091_fearful.wav",
+    "filepath": "data/audio/sample_ser_091_fearful.wav",
+    "emotion": "fearful",
+    "duration_sec": 3.88,
+    "split": "train",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_092",
+    "filename": "sample_ser_092_fearful.wav",
+    "filepath": "data/audio/sample_ser_092_fearful.wav",
+    "emotion": "fearful",
+    "duration_sec": 3.86,
+    "split": "test",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_093",
+    "filename": "sample_ser_093_fearful.wav",
+    "filepath": "data/audio/sample_ser_093_fearful.wav",
+    "emotion": "fearful",
+    "duration_sec": 3.27,
+    "split": "train",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_094",
+    "filename": "sample_ser_094_fearful.wav",
+    "filepath": "data/audio/sample_ser_094_fearful.wav",
+    "emotion": "fearful",
+    "duration_sec": 3.82,
+    "split": "train",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_095",
+    "filename": "sample_ser_095_fearful.wav",
+    "filepath": "data/audio/sample_ser_095_fearful.wav",
+    "emotion": "fearful",
+    "duration_sec": 3.78,
+    "split": "train",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_096",
+    "filename": "sample_ser_096_fearful.wav",
+    "filepath": "data/audio/sample_ser_096_fearful.wav",
+    "emotion": "fearful",
+    "duration_sec": 4.15,
+    "split": "test",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_097",
+    "filename": "sample_ser_097_fearful.wav",
+    "filepath": "data/audio/sample_ser_097_fearful.wav",
+    "emotion": "fearful",
+    "duration_sec": 3.63,
+    "split": "train",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_098",
+    "filename": "sample_ser_098_fearful.wav",
+    "filepath": "data/audio/sample_ser_098_fearful.wav",
+    "emotion": "fearful",
+    "duration_sec": 3.69,
+    "split": "train",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_099",
+    "filename": "sample_ser_099_fearful.wav",
+    "filepath": "data/audio/sample_ser_099_fearful.wav",
+    "emotion": "fearful",
+    "duration_sec": 3.39,
+    "split": "train",
+    "sample_rate": 16000
+  },
+  {
+    "id": "ser_100",
+    "filename": "sample_ser_100_fearful.wav",
+    "filepath": "data/audio/sample_ser_100_fearful.wav",
+    "emotion": "fearful",
+    "duration_sec": 4.42,
+    "split": "test",
+    "sample_rate": 16000
+  }
+]

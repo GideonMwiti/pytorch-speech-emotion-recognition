@@ -1,0 +1,280 @@
+{
+  "model_architecture": "CRNN (2D-CNN + BiLSTM + Attention)",
+  "num_classes": 5,
+  "classes": [
+    "neutral",
+    "happy",
+    "sad",
+    "angry",
+    "fearful"
+  ],
+  "test_accuracy": 100.0,
+  "macro_precision": 100.0,
+  "macro_recall": 100.0,
+  "macro_f1": 100.0,
+  "mean_latency_ms": 8.447732925415039,
+  "confusion_matrix": [
+    [
+      5,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      5,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      5,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      5,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      5
+    ]
+  ],
+  "test_samples": [
+    {
+      "id": "ser_004",
+      "filename": "sample_ser_004_neutral.wav",
+      "ground_truth": "neutral",
+      "predicted": "neutral",
+      "confidence": 0.9656884074211121,
+      "is_correct": true,
+      "latency_ms": 7.889851927757263
+    },
+    {
+      "id": "ser_008",
+      "filename": "sample_ser_008_neutral.wav",
+      "ground_truth": "neutral",
+      "predicted": "neutral",
+      "confidence": 0.9641795754432678,
+      "is_correct": true,
+      "latency_ms": 7.889851927757263
+    },
+    {
+      "id": "ser_012",
+      "filename": "sample_ser_012_neutral.wav",
+      "ground_truth": "neutral",
+      "predicted": "neutral",
+      "confidence": 0.9707512259483337,
+      "is_correct": true,
+      "latency_ms": 7.889851927757263
+    },
+    {
+      "id": "ser_016",
+      "filename": "sample_ser_016_neutral.wav",
+      "ground_truth": "neutral",
+      "predicted": "neutral",
+      "confidence": 0.9698787927627563,
+      "is_correct": true,
+      "latency_ms": 7.889851927757263
+    },
+    {
+      "id": "ser_020",
+      "filename": "sample_ser_020_neutral.wav",
+      "ground_truth": "neutral",
+      "predicted": "neutral",
+      "confidence": 0.9718484282493591,
+      "is_correct": true,
+      "latency_ms": 7.889851927757263
+    },
+    {
+      "id": "ser_024",
+      "filename": "sample_ser_024_happy.wav",
+      "ground_truth": "happy",
+      "predicted": "happy",
+      "confidence": 0.9279375076293945,
+      "is_correct": true,
+      "latency_ms": 7.889851927757263
+    },
+    {
+      "id": "ser_028",
+      "filename": "sample_ser_028_happy.wav",
+      "ground_truth": "happy",
+      "predicted": "happy",
+      "confidence": 0.9472651481628418,
+      "is_correct": true,
+      "latency_ms": 7.889851927757263
+    },
+    {
+      "id": "ser_032",
+      "filename": "sample_ser_032_happy.wav",
+      "ground_truth": "happy",
+      "predicted": "happy",
+      "confidence": 0.9456764459609985,
+      "is_correct": true,
+      "latency_ms": 7.889851927757263
+    },
+    {
+      "id": "ser_036",
+      "filename": "sample_ser_036_happy.wav",
+      "ground_truth": "happy",
+      "predicted": "happy",
+      "confidence": 0.9196302890777588,
+      "is_correct": true,
+      "latency_ms": 7.889851927757263
+    },
+    {
+      "id": "ser_040",
+      "filename": "sample_ser_040_happy.wav",
+      "ground_truth": "happy",
+      "predicted": "happy",
+      "confidence": 0.9002087712287903,
+      "is_correct": true,
+      "latency_ms": 7.889851927757263
+    },
+    {
+      "id": "ser_044",
+      "filename": "sample_ser_044_sad.wav",
+      "ground_truth": "sad",
+      "predicted": "sad",
+      "confidence": 0.9578315019607544,
+      "is_correct": true,
+      "latency_ms": 7.889851927757263
+    },
+    {
+      "id": "ser_048",
+      "filename": "sample_ser_048_sad.wav",
+      "ground_truth": "sad",
+      "predicted": "sad",
+      "confidence": 0.9521247148513794,
+      "is_correct": true,
+      "latency_ms": 7.889851927757263
+    },
+    {
+      "id": "ser_052",
+      "filename": "sample_ser_052_sad.wav",
+      "ground_truth": "sad",
+      "predicted": "sad",
+      "confidence": 0.9586650729179382,
+      "is_correct": true,
+      "latency_ms": 7.889851927757263
+    },
+    {
+      "id": "ser_056",
+      "filename": "sample_ser_056_sad.wav",
+      "ground_truth": "sad",
+      "predicted": "sad",
+      "confidence": 0.9616127610206604,
+      "is_correct": true,
+      "latency_ms": 7.889851927757263
+    },
+    {
+      "id": "ser_060",
+      "filename": "sample_ser_060_sad.wav",
+      "ground_truth": "sad",
+      "predicted": "sad",
+      "confidence": 0.962445080280304,
+      "is_correct": true,
+      "latency_ms": 7.889851927757263
+    },
+    {
+      "id": "ser_064",
+      "filename": "sample_ser_064_angry.wav",
+      "ground_truth": "angry",
+      "predicted": "angry",
+      "confidence": 0.9416341185569763,
+      "is_correct": true,
+      "latency_ms": 7.889851927757263
+    },
+    {
+      "id": "ser_068",
+      "filename": "sample_ser_068_angry.wav",
+      "ground_truth": "angry",
+      "predicted": "angry",
+      "confidence": 0.9262685179710388,
+      "is_correct": true,
+      "latency_ms": 9.43952136569553
+    },
+    {
+      "id": "ser_072",
+      "filename": "sample_ser_072_angry.wav",
+      "ground_truth": "angry",
+      "predicted": "angry",
+      "confidence": 0.926964521408081,
+      "is_correct": true,
+      "latency_ms": 9.43952136569553
+    },
+    {
+      "id": "ser_076",
+      "filename": "sample_ser_076_angry.wav",
+      "ground_truth": "angry",
+      "predicted": "angry",
+      "confidence": 0.9080920219421387,
+      "is_correct": true,
+      "latency_ms": 9.43952136569553
+    },
+    {
+      "id": "ser_080",
+      "filename": "sample_ser_080_angry.wav",
+      "ground_truth": "angry",
+      "predicted": "angry",
+      "confidence": 0.894811749458313,
+      "is_correct": true,
+      "latency_ms": 9.43952136569553
+    },
+    {
+      "id": "ser_084",
+      "filename": "sample_ser_084_fearful.wav",
+      "ground_truth": "fearful",
+      "predicted": "fearful",
+      "confidence": 0.9604352712631226,
+      "is_correct": true,
+      "latency_ms": 9.43952136569553
+    },
+    {
+      "id": "ser_088",
+      "filename": "sample_ser_088_fearful.wav",
+      "ground_truth": "fearful",
+      "predicted": "fearful",
+      "confidence": 0.9408975839614868,
+      "is_correct": true,
+      "latency_ms": 9.43952136569553
+    },
+    {
+      "id": "ser_092",
+      "filename": "sample_ser_092_fearful.wav",
+      "ground_truth": "fearful",
+      "predicted": "fearful",
+      "confidence": 0.9451776742935181,
+      "is_correct": true,
+      "latency_ms": 9.43952136569553
+    },
+    {
+      "id": "ser_096",
+      "filename": "sample_ser_096_fearful.wav",
+      "ground_truth": "fearful",
+      "predicted": "fearful",
+      "confidence": 0.9518193006515503,
+      "is_correct": true,
+      "latency_ms": 9.43952136569553
+    },
+    {
+      "id": "ser_100",
+      "filename": "sample_ser_100_fearful.wav",
+      "ground_truth": "fearful",
+      "predicted": "fearful",
+      "confidence": 0.9605059027671814,
+      "is_correct": true,
+      "latency_ms": 9.43952136569553
+    }
+  ]
+}
